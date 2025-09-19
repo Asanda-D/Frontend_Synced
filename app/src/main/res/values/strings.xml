@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">thirdSynced</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="red_color">Red Color</string>
+    <string name="green_color">Green color</string>
+    <string name="yellow_colour">Yellow colour</string>
+    <string name="blue_color">Blue color</string>
+    <string name="purple_color">Purple color</string>
+    <string name="pink_color">Pink color</string>
+    <string name="brown_color">Brown color</string>
+    <string name="dark_green_color">Dark green color</string>
+    <string name="dark_blue_color">Dark blue color</string>
+    <string name="gray_color">Gray color</string>
+    <string name="orange_color">Orange color</string>
+    <string name="other_color">Other</string>
+
+    <string-array name="zodiac_signs">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+
+    <string-array name="siblings_options">
+        <item>Only child</item>
+        <item>1 sibling</item>
+        <item>2 siblings</item>
+        <item>3+ siblings</item>
+    </string-array>
+
+    <string-array name="area_options">
+        <!-- Western Cape -->
+        <item>Cape Town</item>
+        <item>Stellenbosch</item>
+        <item>George</item>
+
+        <!-- Gauteng -->
+        <item>Johannesburg</item>
+        <item>Pretoria</item>
+        <item>Soweto</item>
+
+        <!-- KwaZulu-Natal -->
+        <item>Durban</item>
+        <item>Pietermaritzburg</item>
+        <item>Richards Bay</item>
+
+        <!-- Eastern Cape -->
+        <item>Port Elizabeth (Gqeberha)</item>
+        <item>East London</item>
+        <item>Mthatha</item>
+
+        <!-- Free State -->
+        <item>Bloemfontein</item>
+        <item>Welkom</item>
+        <item>Parys</item>
+
+        <!-- North West -->
+        <item>Rustenburg</item>
+        <item>Klerksdorp</item>
+        <item>Mafikeng (Mahikeng)</item>
+
+        <!-- Mpumalanga -->
+        <item>Nelspruit (Mbombela)</item>
+        <item>Witbank (eMalahleni)</item>
+        <item>Secunda</item>
+
+        <!-- Limpopo -->
+        <item>Polokwane</item>
+        <item>Thohoyandou</item>
+        <item>Tzaneen</item>
+
+        <!-- Northern Cape -->
+        <item>Kimberley</item>
+        <item>Upington</item>
+        <item>Springbok</item>
+    </string-array>
+
+    <string-array name="movie_genres">
+        <item>Action</item>
+        <item>Romance</item>
+        <item>Comedy</item>
+        <item>Horror</item>
+        <item>Drama</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="religions">
+        <item>Christian</item>
+        <item>Muslim</item>
+        <item>Hindu</item>
+        <item>Jewish</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="foods">
+        <item>Italian</item>
+        <item>Indian</item>
+        <item>Chinese</item>
+        <item>Mexican</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

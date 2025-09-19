@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/loginFragment">
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="vcmsa.projects.thirdsynced.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/questionnaireFragment"
+        android:name="vcmsa.projects.thirdsynced.QuestionnaireFragment"
+        android:label="QuestionnaireFragment" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="vcmsa.projects.thirdsynced.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="vcmsa.projects.thirdsynced.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+</navigation>
