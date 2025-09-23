@@ -12,8 +12,15 @@
     <color name="orange">#FF8C00</color> <!-- Dark orange -->
     <color name="yellow">#FFD700</color> <!-- Emoji yellow -->
     <color name="blue">#0000FF</color> <!-- Regular blue -->
+    <color name="md_green">#804CAF50</color>      <!-- Success Green -->
+    <color name="md_red">#80F44336</color>        <!-- Error Red -->
+    <color name="md_blue">#2196F3</color>       <!-- Info Blue  -->
+    <color name="md_yellow">#FFEB3B</color>     <!-- Warning Yellow -->
+    <color name="lt_purple">#803F51B5</color>   <!-- Transparent Purple -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
     <color name="red">#FF0000</color>
     <color name="Button1">#9A61FF</color>
+    <color name="Button2">#00B8E5</color>
 </resources>
